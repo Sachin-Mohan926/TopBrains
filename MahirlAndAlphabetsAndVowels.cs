@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Enter First Word");
+        Console.WriteLine("Enter First Word: ");
         string str1 = Console.ReadLine();
-        Console.WriteLine("Enter Second Word");
+        Console.WriteLine("Enter Second Word: ");
         string str2 = Console.ReadLine();
         string str3 = Remove_Common_Consonants(str1.ToLower(),str2.ToLower());
         Remove_Consecutive_Duplicate_Characters(str3);
@@ -39,9 +39,9 @@ class Program
             arr2.Add(str3[i]);
         }
         Console.WriteLine("Output: ");
-        foreach(var it in arr2)
+        foreach(var ch in arr2)
         {
-            Console.Write($"{it}");
+            Console.Write($"{ch}");
         }
     }
 }

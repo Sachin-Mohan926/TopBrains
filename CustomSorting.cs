@@ -24,9 +24,9 @@ class Program
     {
         List<Student> st = new List<Student>
         {
-            new Student(){Name ="Ankit",Age = 20,Marks = 30},
-            new Student(){Name ="Rohan",Age = 21,Marks = 30},
-            new Student(){Name ="Sohan",Age = 30,Marks = 40},
+            new Student(){Name ="Sachin",Age = 24,Marks = 36},
+            new Student(){Name ="Mohan",Age = 23,Marks = 32},
+            new Student(){Name ="Rahul",Age = 35,Marks = 45},
         };
         st.Sort(new MarksComparer());
         foreach(var it in st)

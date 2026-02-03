@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\bin\Debug\net10.0\TopBrainsPracticeApp.exe
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\bin\Debug\net10.0\TopBrainsPracticeApp.deps.json
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\bin\Debug\net10.0\TopBrainsPracticeApp.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\bin\Debug\net10.0\TopBrainsPracticeApp.dll
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\bin\Debug\net10.0\TopBrainsPracticeApp.pdb
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.dll
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\refint\TopBrainsPracticeApp.dll
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.pdb
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\ref\TopBrainsPracticeApp.dll
+C:\Users\hp\OneDrive\Desktop\TopBrains\TopBrainsPracticeApp\obj\Debug\net10.0\TopBrainsPracticeApp.sourcelink.json
